@@ -1,0 +1,10 @@
+# Never commit GCP service account keys
+*.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+*.egg-info/
